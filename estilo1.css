@@ -1,0 +1,31 @@
+@charset "utf-8";
+body {
+    background-color: hsl(198, 50%, 85%);
+    font-family: sans-serif;
+    }
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    }
+h2{
+    font-size: 2rem;
+    background-color: dodgerblue
+}
+h3{
+    font-size: 1rem;
+    background-color: cyan;
+    color: white
+}
+p{
+    text-align: justify
+}
+blockquote{
+    font-family: Arial, Helvetica, sans-serif
+}
+pre{
+    font-size: x-small;
+    background-color: white;
+    font-weight: bold
+}
